@@ -1,4 +1,4 @@
-# 0x1D. C - Binary Trees
+# C - Binary Trees
 
 > A Holberton School project focused on building and understanding binary trees in C — from creating nodes to calculating height, balance, and perfection.
 
