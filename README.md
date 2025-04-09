@@ -63,6 +63,9 @@ File	Description
 16-binary_tree_is_perfect.c	Check if a binary tree is perfect
 17-binary_tree_sibling.c	Find the sibling of a node
 18-binary_tree_uncle.c	Find the uncle of a node
+```
+---
+
 🧪 Compilation Example
 All .c files are compiled using:
 
@@ -70,5 +73,8 @@ bash
 Copy
 Edit
 gcc -Wall -Wextra -Werror -pedantic -std=gnu89 <file>.c -o <output>
+
+---
+
 🧑‍💻 Authors
 Mohammed Al Yousef, Mohammed Alzahrani — Holberton School Student
